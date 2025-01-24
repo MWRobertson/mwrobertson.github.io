@@ -9,7 +9,7 @@ tags: ttrpg dnd tables
 
 Your party is greeted by Mr. Snowslinger himself as you enter the curious dessert parlor. Tendrils of mist descend from a long wooden ice box before you. It's filled with ten different buckets of delicious-looking treats. For 1GP, you may purchase a cup in a flavor of your choosing, or you may ask Mr. Snowslinger to give you one at random. 
 
-![Black and white image of a little girl eating ice cream from the Library of Congress free use collection](/docs/assets/images/IMG_0407.jpeg)
+![Black and white image of a little girl eating ice cream from the Library of Congress free use collection](/Assets/images/IMG_0407.jpeg)
 
 When each person finishes their cup, they feel the spoon in their hand pulse with a strange power. With a successful Arcana check (DC 10), you discover that each spoon is now an arcane focus for a single-charge instance of a spell. The particular spell endowed in the spoon corresponds to the flavor of ice cream chosen.
 
