@@ -1,6 +1,7 @@
 ---
-layout: default
-title: Magical Ice Cream!
+layout: post
+title: "Magical Ice Cream!"
+date: 2025-01-23
 tags: ttrpg dnd tables
 ---
 
