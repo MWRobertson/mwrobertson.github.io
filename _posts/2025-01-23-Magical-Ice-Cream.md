@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Magical Ice Cream!"
+author: Mike Robertson
 date: 2025-01-23
 tags: ttrpg dnd tables
 ---
